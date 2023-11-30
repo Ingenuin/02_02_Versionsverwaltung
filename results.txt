@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-U242F96
+Date of Test: 2023-11-30 10:03:08
+Bubble Sort Time: 2.950758 seconds
+Quick Sort Time: 0.000000 seconds
+
