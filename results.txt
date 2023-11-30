@@ -3,3 +3,8 @@ Date of Test: 2023-11-30 10:03:08
 Bubble Sort Time: 2.950758 seconds
 Quick Sort Time: 0.000000 seconds
 
+Computer Name: DESKTOP-OG7NKA7
+Date of Test: 2023-11-30 10:05:18
+Bubble Sort Time: 10.561919 seconds
+Quick Sort Time: 0.022940 seconds
+
